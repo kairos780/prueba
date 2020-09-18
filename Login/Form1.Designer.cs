@@ -114,7 +114,7 @@
             this.label1.Location = new System.Drawing.Point(317, 33);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(59, 23);
-            this.label1.TabIndex = 0;
+            this.label1.TabIndex = 4;
             this.label1.Text = "LOGIN";
             // 
             // linkLabel2
@@ -128,7 +128,7 @@
             this.linkLabel2.Location = new System.Drawing.Point(207, 102);
             this.linkLabel2.Name = "linkLabel2";
             this.linkLabel2.Size = new System.Drawing.Size(265, 1);
-            this.linkLabel2.TabIndex = 5;
+            this.linkLabel2.TabIndex = 0;
             this.linkLabel2.TabStop = true;
             this.linkLabel2.Text = "_________________________________________";
             // 
